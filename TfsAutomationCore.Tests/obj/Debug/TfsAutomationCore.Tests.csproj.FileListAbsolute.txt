@@ -1,0 +1,12 @@
+C:\Users\LielRan\Desktop\My Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TfsAutomationCore.Tests\bin\Debug\TfsAutomationCore.Tests.dll
+C:\Users\LielRan\Desktop\My Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TfsAutomationCore.Tests\bin\Debug\TfsAutomationCore.Tests.pdb
+C:\Users\LielRan\Desktop\My Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TfsAutomationCore.Tests\bin\Debug\TfsAutomation.dll
+C:\Users\LielRan\Desktop\My Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TfsAutomationCore.Tests\bin\Debug\WebDriver.dll
+C:\Users\LielRan\Desktop\My Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TfsAutomationCore.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LielRan\Desktop\My Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TfsAutomationCore.Tests\bin\Debug\Ionic.Zip.dll
+C:\Users\LielRan\Desktop\My Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TfsAutomationCore.Tests\bin\Debug\TfsAutomation.pdb
+C:\Users\LielRan\Desktop\My Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TfsAutomationCore.Tests\bin\Debug\WebDriver.pdb
+C:\Users\LielRan\Desktop\My Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TfsAutomationCore.Tests\bin\Debug\WebDriver.xml
+C:\Users\LielRan\Desktop\My Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TfsAutomationCore.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LielRan\Desktop\My Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TfsAutomationCore.Tests\obj\Debug\TfsAutomationCore.Tests.dll
+C:\Users\LielRan\Desktop\My Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TfsAutomationCore.Tests\obj\Debug\TfsAutomationCore.Tests.pdb

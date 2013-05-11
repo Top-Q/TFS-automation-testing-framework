@@ -1,0 +1,11 @@
+C:\Users\liel_r\Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TfsAutomationCore.Tests\bin\Release\TfsAutomationCore.Tests.dll.config
+C:\Users\liel_r\Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TfsAutomationCore.Tests\bin\Release\TfsAutomationCore.Tests.dll
+C:\Users\liel_r\Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TfsAutomationCore.Tests\bin\Release\TfsAutomationCore.Tests.pdb
+C:\Users\liel_r\Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TfsAutomationCore.Tests\bin\Release\TfsAutomation.dll
+C:\Users\liel_r\Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TfsAutomationCore.Tests\bin\Release\YAXLib.dll
+C:\Users\liel_r\Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TfsAutomationCore.Tests\bin\Release\TfsAutomation.pdb
+C:\Users\liel_r\Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TfsAutomationCore.Tests\obj\Release\TfsAutomationCore.Tests.dll
+C:\Users\liel_r\Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TfsAutomationCore.Tests\obj\Release\TfsAutomationCore.Tests.pdb
+C:\Users\liel_r\Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TfsAutomationCore.Tests\obj\Release\TfsAutomationCore.Tests.csprojResolveAssemblyReference.cache
+C:\Users\liel_r\Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TfsAutomationCore.Tests\bin\Release\WebDriverAdaptor.dll
+C:\Users\liel_r\Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TfsAutomationCore.Tests\bin\Release\WebDriverAdaptor.pdb

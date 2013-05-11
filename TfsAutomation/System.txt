@@ -1,0 +1,2 @@
+﻿ListenerManagerClass=TfsAutomation.ListenerManager.TestListenerManagerImpl
+Reports=TfsAutomation.Report.FileReportersManager

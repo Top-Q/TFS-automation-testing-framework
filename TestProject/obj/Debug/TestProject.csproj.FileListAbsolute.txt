@@ -1,0 +1,12 @@
+C:\Users\LielRan\Desktop\My Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TestProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LielRan\Desktop\My Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TestProject\bin\Debug\TestProject.dll
+C:\Users\LielRan\Desktop\My Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TestProject\bin\Debug\TestProject.pdb
+C:\Users\LielRan\Desktop\My Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TestProject\bin\Debug\TfsAutomation.dll
+C:\Users\LielRan\Desktop\My Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TestProject\bin\Debug\WebDriver.dll
+C:\Users\LielRan\Desktop\My Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TestProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LielRan\Desktop\My Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TestProject\bin\Debug\Ionic.Zip.dll
+C:\Users\LielRan\Desktop\My Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TestProject\bin\Debug\TfsAutomation.pdb
+C:\Users\LielRan\Desktop\My Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TestProject\bin\Debug\WebDriver.pdb
+C:\Users\LielRan\Desktop\My Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TestProject\bin\Debug\WebDriver.xml
+C:\Users\LielRan\Desktop\My Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TestProject\obj\Debug\TestProject.dll
+C:\Users\LielRan\Desktop\My Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TestProject\obj\Debug\TestProject.pdb

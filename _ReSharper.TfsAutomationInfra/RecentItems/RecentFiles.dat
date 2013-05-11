@@ -1,0 +1,66 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:AnalyzerParameters/f:IAnalyzerParameter.cs" caret="675" fromTop="10" />
+    <File id="11AE4F47-40CE-4C5B-BBA5-39247A4D4EAE/d:SUT/f:sut._orgxml" caret="92" fromTop="0" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Report/f:TestContextReporter.cs" caret="706" fromTop="10" />
+    <File id="11AE4F47-40CE-4C5B-BBA5-39247A4D4EAE/d:Adaptors/f:MockSonAdaptor.cs" caret="0" fromTop="0" />
+    <File id="11AE4F47-40CE-4C5B-BBA5-39247A4D4EAE/d:Adaptors/f:MockStringAnalyzerParameter.cs" caret="305" fromTop="12" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Report/f:HtmlReporter.cs" caret="3374" fromTop="56" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/f:TfsAutomationCore.config" caret="0" fromTop="0" />
+    <File id="11AE4F47-40CE-4C5B-BBA5-39247A4D4EAE/d:Adaptors/f:MockObjectAnalyzerParameter.cs" caret="143" fromTop="6" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:SutHandling/f:SutManager.cs" caret="926" fromTop="30" />
+    <File id="11AE4F47-40CE-4C5B-BBA5-39247A4D4EAE/d:Adaptors/f:TestAdaptorsInitialization.cs" caret="365" fromTop="15" />
+    <File id="11AE4F47-40CE-4C5B-BBA5-39247A4D4EAE/f:App.config" caret="237" fromTop="6" />
+    <File id="11AE4F47-40CE-4C5B-BBA5-39247A4D4EAE/f:AbstractTestCaseExample.cs" caret="785" fromTop="23" />
+    <File id="11AE4F47-40CE-4C5B-BBA5-39247A4D4EAE/d:Adaptors/f:AnalyzerImplTests.cs" caret="0" fromTop="0" />
+    <File id="11AE4F47-40CE-4C5B-BBA5-39247A4D4EAE/d:Adaptors/f:MockAdaptor.cs" caret="0" fromTop="0" />
+    <File id="882FAEE3-F943-47D6-9F0C-0622A8F38978/f:UnitTest1.cs" caret="0" fromTop="0" />
+    <File id="11AE4F47-40CE-4C5B-BBA5-39247A4D4EAE/f:Sandbox.cs" caret="0" fromTop="0" />
+    <File id="11AE4F47-40CE-4C5B-BBA5-39247A4D4EAE/d:SUT/f:sut.xml" caret="322" fromTop="6" />
+    <File id="11AE4F47-40CE-4C5B-BBA5-39247A4D4EAE/d:Tests/f:WebDriverTest.cs" caret="889" fromTop="22" />
+    <File id="11AE4F47-40CE-4C5B-BBA5-39247A4D4EAE/d:Tests/f:TestTestStatus.cs" caret="0" fromTop="0" />
+    <File id="BADEE4B0-C52B-41C3-B12B-5C057AF12B94/d:src/f:WebDriverType.cs" caret="253" fromTop="12" />
+    <File id="882FAEE3-F943-47D6-9F0C-0622A8F38978/f:CodedUITest1.cs" caret="1077" fromTop="26" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Adaptors/f:AnalyzerImpl.cs" caret="478" fromTop="16" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Adaptors/f:AdaptorsManager.cs" caret="1039" fromTop="21" />
+    <File id="11AE4F47-40CE-4C5B-BBA5-39247A4D4EAE/d:Tests/f:TestTestContext.cs" caret="293" fromTop="12" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Test/f:BaseTest.cs" caret="1093" fromTop="11" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Report/f:AbstractDefaultReporter.cs" caret="367" fromTop="11" />
+    <File id="BADEE4B0-C52B-41C3-B12B-5C057AF12B94/d:src/f:WebDriverAdaptor.cs" caret="434" fromTop="14" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Adaptors/f:AdaptorImpl.cs" caret="166" fromTop="7" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:ListenerManager/f:TestListenerManagerImpl.cs" caret="4067" fromTop="14" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:ListenerManager/f:ITestListener.cs" caret="462" fromTop="18" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="BADEE4B0-C52B-41C3-B12B-5C057AF12B94/d:src/f:WebDriverAdaptor.cs" caret="2910" fromTop="12" />
+    <File id="BADEE4B0-C52B-41C3-B12B-5C057AF12B94/d:src/f:WebDriverAdaptor.cs" caret="1847" fromTop="17" />
+    <File id="BADEE4B0-C52B-41C3-B12B-5C057AF12B94/d:src/f:WebDriverAdaptor.cs" caret="922" fromTop="18" />
+    <File id="11AE4F47-40CE-4C5B-BBA5-39247A4D4EAE/d:Tests/f:WebDriverTest.cs" caret="936" fromTop="19" />
+    <File id="BADEE4B0-C52B-41C3-B12B-5C057AF12B94/d:src/f:WebDriverType.cs" caret="0" fromTop="0" />
+    <File id="BADEE4B0-C52B-41C3-B12B-5C057AF12B94/d:src/f:WebDriverType.cs" caret="262" fromTop="12" />
+    <File id="BADEE4B0-C52B-41C3-B12B-5C057AF12B94/d:src/f:WebDriverAdaptor.cs" caret="2204" fromTop="21" />
+    <File id="BADEE4B0-C52B-41C3-B12B-5C057AF12B94/d:src/f:WebDriverAdaptor.cs" caret="3619" fromTop="20" />
+    <File id="BADEE4B0-C52B-41C3-B12B-5C057AF12B94/d:src/f:WebDriverAdaptor.cs" caret="3537" fromTop="17" />
+    <File id="BADEE4B0-C52B-41C3-B12B-5C057AF12B94/d:src/f:WebDriverAdaptor.cs" caret="3632" fromTop="22" />
+    <File id="BADEE4B0-C52B-41C3-B12B-5C057AF12B94/d:src/f:WebDriverAdaptor.cs" caret="4487" fromTop="21" />
+    <File id="BADEE4B0-C52B-41C3-B12B-5C057AF12B94/d:src/f:WebDriverAdaptor.cs" caret="664" fromTop="21" />
+    <File id="882FAEE3-F943-47D6-9F0C-0622A8F38978/f:CodedUITest1.cs" caret="740" fromTop="29" />
+    <File id="882FAEE3-F943-47D6-9F0C-0622A8F38978/f:CodedUITest1.cs" caret="1093" fromTop="24" />
+    <File id="882FAEE3-F943-47D6-9F0C-0622A8F38978/f:CodedUITest1.cs" caret="1381" fromTop="33" />
+    <File id="882FAEE3-F943-47D6-9F0C-0622A8F38978/f:CodedUITest1.cs" caret="1062" fromTop="25" />
+    <File id="882FAEE3-F943-47D6-9F0C-0622A8F38978/f:CodedUITest1.cs" caret="703" fromTop="15" />
+    <File id="BADEE4B0-C52B-41C3-B12B-5C057AF12B94/d:src/f:WebDriverType.cs" caret="253" fromTop="12" />
+    <File id="BADEE4B0-C52B-41C3-B12B-5C057AF12B94/d:src/f:WebDriverAdaptor.cs" caret="2581" fromTop="25" />
+    <File id="BADEE4B0-C52B-41C3-B12B-5C057AF12B94/d:src/f:WebDriverAdaptor.cs" caret="2715" fromTop="29" />
+    <File id="BADEE4B0-C52B-41C3-B12B-5C057AF12B94/d:src/f:WebDriverAdaptor.cs" caret="840" fromTop="26" />
+    <File id="BADEE4B0-C52B-41C3-B12B-5C057AF12B94/d:src/f:WebDriverAdaptor.cs" caret="1093" fromTop="29" />
+    <File id="11AE4F47-40CE-4C5B-BBA5-39247A4D4EAE/d:Tests/f:WebDriverTest.cs" caret="561" fromTop="20" />
+    <File id="11AE4F47-40CE-4C5B-BBA5-39247A4D4EAE/d:SUT/f:sut.xml" caret="252" fromTop="4" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Adaptors/f:AdaptorsManager.cs" caret="1205" fromTop="14" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Test/f:BaseTest.cs" caret="1099" fromTop="20" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:ListenerManager/f:TestListenerManagerImpl.cs" caret="1307" fromTop="4" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:ListenerManager/f:TestListenerManagerImpl.cs" caret="4231" fromTop="10" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:ListenerManager/f:ITestListener.cs" caret="462" fromTop="18" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:ListenerManager/f:TestListenerManagerImpl.cs" caret="4067" fromTop="14" />
+  </RecentEdits>
+</RecentFiles>

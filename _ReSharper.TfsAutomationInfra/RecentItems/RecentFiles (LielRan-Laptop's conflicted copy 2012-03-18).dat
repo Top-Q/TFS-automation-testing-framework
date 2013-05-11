@@ -1,0 +1,60 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/f:app.config" caret="0" fromTop="0" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:AnalyzerParameters/f:IAnalyzerParameter.cs" caret="735" fromTop="13" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Files/f:FileAccessUtils.cs" caret="0" fromTop="0" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Timers/f:Timer.cs" caret="1131" fromTop="36" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:AnalyzerParameters/f:FindText.cs" caret="1312" fromTop="46" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Timers/f:Timers.cs" caret="348" fromTop="0" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Test/f:BaseTest.cs" caret="1682" fromTop="7" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:ListenerManager/f:ITestListenerManager.cs" caret="457" fromTop="10" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:ListenerManager/f:TestListenerManagerImpl.cs" caret="1030" fromTop="0" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Report/f:IReporter.cs" caret="336" fromTop="9" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Report/f:FileReportersManager.cs" caret="1667" fromTop="56" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Report/f:FileReporter.cs" caret="0" fromTop="0" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Report/f:CommonReporterBase.cs" caret="2355" fromTop="29" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Report/f:TestContextReporter.cs" caret="348" fromTop="13" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Report/f:MockReporter.cs" caret="172" fromTop="7" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:AnalyzerParameters/f:AbstractAnalyzerParameter.cs" caret="0" fromTop="0" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Adaptors/f:AdaptorImpl.cs" caret="418" fromTop="15" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Adaptors/d:Sample/f:WebDriverAdapter.cs" caret="364" fromTop="12" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Adaptors/f:IAnalyzer.cs" caret="598" fromTop="20" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Adaptors/f:IAdaptor.cs" caret="165" fromTop="8" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Adaptors/f:AnalyzerImpl.cs" caret="1330" fromTop="19" />
+    <File id="9EC09953-7039-4957-B1A6-3E4DB122BB6F/f:TestExample.cs" caret="634" fromTop="2" />
+    <File id="9EC09953-7039-4957-B1A6-3E4DB122BB6F/f:CustomSection.cs" caret="278" fromTop="10" />
+    <File id="9EC09953-7039-4957-B1A6-3E4DB122BB6F/f:UnitTest1.cs" caret="632" fromTop="21" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="9EC09953-7039-4957-B1A6-3E4DB122BB6F/f:CustomSection.cs" caret="1419" fromTop="14" />
+    <File id="9EC09953-7039-4957-B1A6-3E4DB122BB6F/f:CustomSection.cs" caret="585" fromTop="23" />
+    <File id="9EC09953-7039-4957-B1A6-3E4DB122BB6F/f:CustomSection.cs" caret="1354" fromTop="33" />
+    <File id="9EC09953-7039-4957-B1A6-3E4DB122BB6F/f:UnitTest1.cs" caret="1522" fromTop="27" />
+    <File id="9EC09953-7039-4957-B1A6-3E4DB122BB6F/f:UnitTest1.cs" caret="1238" fromTop="17" />
+    <File id="9EC09953-7039-4957-B1A6-3E4DB122BB6F/f:UnitTest1.cs" caret="673" fromTop="14" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Adaptors/d:Sample/f:WebDriverAdapter.cs" caret="1480" fromTop="29" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Adaptors/d:Sample/f:WebDriverAdapter.cs" caret="2063" fromTop="49" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Adaptors/d:Sample/f:WebDriverAdapter.cs" caret="1379" fromTop="29" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Adaptors/d:Sample/f:WebDriverAdapter.cs" caret="309" fromTop="8" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Adaptors/d:Sample/f:WebDriverAdapter.cs" caret="2543" fromTop="51" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Timers/f:Timers.cs" caret="3811" fromTop="116" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Timers/f:Timer.cs" caret="2248" fromTop="2" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Timers/f:Timer.cs" caret="2356" fromTop="70" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Report/f:MockReporter.cs" caret="1592" fromTop="47" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:AnalyzerParameters/f:FindText.cs" caret="441" fromTop="14" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:AnalyzerParameters/f:FindText.cs" caret="327" fromTop="10" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:AnalyzerParameters/f:FindText.cs" caret="1151" fromTop="31" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:AnalyzerParameters/f:FindText.cs" caret="1079" fromTop="25" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Timers/f:Timers.cs" caret="548" fromTop="23" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Report/f:MockReporter.cs" caret="532" fromTop="17" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:ListenerManager/f:TestListenerManagerImpl.cs" caret="934" fromTop="22" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Report/f:MockReporter.cs" caret="237" fromTop="10" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Adaptors/f:AnalyzerImpl.cs" caret="3775" fromTop="22" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Adaptors/f:AnalyzerImpl.cs" caret="170" fromTop="7" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Adaptors/f:AnalyzerImpl.cs" caret="13" fromTop="0" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Adaptors/f:AnalyzerImpl.cs" caret="2627" fromTop="15" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Adaptors/f:AnalyzerImpl.cs" caret="3389" fromTop="15" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Adaptors/f:AnalyzerImpl.cs" caret="1371" fromTop="19" />
+    <File id="935C876C-F8A7-4EF5-B292-71EA147A3607/d:Adaptors/f:AnalyzerImpl.cs" caret="1330" fromTop="19" />
+  </RecentEdits>
+</RecentFiles>

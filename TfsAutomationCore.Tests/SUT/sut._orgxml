@@ -1,0 +1,6 @@
+﻿<MockAdaptor xmlns:yaxlib="http://www.sinairv.com/yaxlib/" yaxlib:realtype="WebDriverAdaptor.Tests.Adaptors.MockAdaptor">
+  <Host>myNewHost</Host>
+  <Son>
+    <Host>SonHost</Host>
+  </Son>
+</MockAdaptor>

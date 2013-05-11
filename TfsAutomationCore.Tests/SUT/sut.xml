@@ -1,0 +1,7 @@
+﻿<MockAdaptor xmlns:yaxlib="http://www.sinairv.com/yaxlib/" yaxlib:realtype="TfsAutomationCore.Tests.Adaptors.WebDriverAdaptor">
+
+  <ieDriverServerPath>C:\Ie\IEDriverServer.exe</ieDriverServerPath>
+  <webDriver>IEXPLORER</webDriver>
+  <timeOut>20000</timeOut>
+  <domain>"http://www.ynet.co.il"</domain>
+</MockAdaptor>

@@ -1,0 +1,12 @@
+C:\Users\LielRan\Desktop\My Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TestProject\bin\Release\TestProject.dll
+C:\Users\LielRan\Desktop\My Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TestProject\bin\Release\TestProject.pdb
+C:\Users\LielRan\Desktop\My Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TestProject\bin\Release\TfsAutomation.dll
+C:\Users\LielRan\Desktop\My Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TestProject\bin\Release\WebDriver.dll
+C:\Users\LielRan\Desktop\My Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TestProject\bin\Release\Newtonsoft.Json.dll
+C:\Users\LielRan\Desktop\My Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TestProject\bin\Release\Ionic.Zip.dll
+C:\Users\LielRan\Desktop\My Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TestProject\bin\Release\TfsAutomation.pdb
+C:\Users\LielRan\Desktop\My Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TestProject\bin\Release\WebDriver.pdb
+C:\Users\LielRan\Desktop\My Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TestProject\bin\Release\WebDriver.xml
+C:\Users\LielRan\Desktop\My Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TestProject\obj\Release\ResolveAssemblyReference.cache
+C:\Users\LielRan\Desktop\My Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TestProject\obj\Release\TestProject.dll
+C:\Users\LielRan\Desktop\My Dropbox\Top-Q\Projects\TFS\Tfs\trunk\TestProject\obj\Release\TestProject.pdb

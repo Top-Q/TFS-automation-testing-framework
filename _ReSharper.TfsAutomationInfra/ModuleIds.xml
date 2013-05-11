@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="935C876C-F8A7-4EF5-B292-71EA147A3607" ModuleId="TfsAutomationCore" />
+  <Module PersistentId="11AE4F47-40CE-4C5B-BBA5-39247A4D4EAE" ModuleId="TfsAutomationCore.Tests" />
+  <Module PersistentId="BADEE4B0-C52B-41C3-B12B-5C057AF12B94" ModuleId="WebDriverAdaptor" />
+  <Module PersistentId="882FAEE3-F943-47D6-9F0C-0622A8F38978" ModuleId="WebTest" />
+</Modules>

@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TfsAutomationCore", "TfsAutomation\TfsAutomationCore.csproj", "{935C876C-F8A7-4EF5-B292-71EA147A3607}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3BF38B77-A968-4004-9456-6DE581444D2F}"
+	ProjectSection(SolutionItems) = preProject
+		TfsAutomationInfra.vsmdi = TfsAutomationInfra.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TfsAutomationCore.Tests", "TfsAutomationCore.Tests\TfsAutomationCore.Tests.csproj", "{11AE4F47-40CE-4C5B-BBA5-39247A4D4EAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDriverAdaptor", "WebDriverAdaptor\WebDriverAdaptor.csproj", "{BADEE4B0-C52B-41C3-B12B-5C057AF12B94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebTest", "WebTest\WebTest.csproj", "{882FAEE3-F943-47D6-9F0C-0622A8F38978}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = TfsAutomationInfra.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		TestConfig|Any CPU = TestConfig|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{935C876C-F8A7-4EF5-B292-71EA147A3607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{935C876C-F8A7-4EF5-B292-71EA147A3607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{935C876C-F8A7-4EF5-B292-71EA147A3607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{935C876C-F8A7-4EF5-B292-71EA147A3607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{935C876C-F8A7-4EF5-B292-71EA147A3607}.TestConfig|Any CPU.ActiveCfg = Release|Any CPU
+		{935C876C-F8A7-4EF5-B292-71EA147A3607}.TestConfig|Any CPU.Build.0 = Release|Any CPU
+		{11AE4F47-40CE-4C5B-BBA5-39247A4D4EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11AE4F47-40CE-4C5B-BBA5-39247A4D4EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11AE4F47-40CE-4C5B-BBA5-39247A4D4EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11AE4F47-40CE-4C5B-BBA5-39247A4D4EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11AE4F47-40CE-4C5B-BBA5-39247A4D4EAE}.TestConfig|Any CPU.ActiveCfg = Release|Any CPU
+		{11AE4F47-40CE-4C5B-BBA5-39247A4D4EAE}.TestConfig|Any CPU.Build.0 = Release|Any CPU
+		{BADEE4B0-C52B-41C3-B12B-5C057AF12B94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BADEE4B0-C52B-41C3-B12B-5C057AF12B94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BADEE4B0-C52B-41C3-B12B-5C057AF12B94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BADEE4B0-C52B-41C3-B12B-5C057AF12B94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BADEE4B0-C52B-41C3-B12B-5C057AF12B94}.TestConfig|Any CPU.ActiveCfg = Release|Any CPU
+		{BADEE4B0-C52B-41C3-B12B-5C057AF12B94}.TestConfig|Any CPU.Build.0 = Release|Any CPU
+		{882FAEE3-F943-47D6-9F0C-0622A8F38978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{882FAEE3-F943-47D6-9F0C-0622A8F38978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{882FAEE3-F943-47D6-9F0C-0622A8F38978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{882FAEE3-F943-47D6-9F0C-0622A8F38978}.Release|Any CPU.Build.0 = Release|Any CPU
+		{882FAEE3-F943-47D6-9F0C-0622A8F38978}.TestConfig|Any CPU.ActiveCfg = Release|Any CPU
+		{882FAEE3-F943-47D6-9F0C-0622A8F38978}.TestConfig|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
